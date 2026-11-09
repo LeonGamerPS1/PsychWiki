@@ -167,7 +167,7 @@ end
 ```
 
 ### createCallback(name:String, func:Dynamic, ?funk:FunkinLua = null)
-> **Note from LarryFrosty**: _The only way I could get this function working was if I used it in a lua script along with runHaxeCode. Third argument returns null every single time. If there's any info about this function, I'd love to hear it._
+> **Note from melodiekit**: _The only way I could get this function working was if I used it in a lua script along with runHaxeCode. Third argument returns null every single time. If there's any info about this function, I'd love to hear it._
 
 Creates a local function inside the script.
 
