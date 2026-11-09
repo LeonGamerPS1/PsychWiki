@@ -7,7 +7,7 @@
 - Fix spelling/grammar errors
 
 #### Contributers
-- [LarryFrosty](https://github.com/LarryFrosty)
+- [melodiekit](https://github.com/melodiekit)
 
 ### 14.2.0 Version
 - Added custom achievement functions
@@ -16,7 +16,7 @@
 - Fix spelling/grammar errors
 
 #### Contributers
-- [LarryFrosty](https://github.com/LarryFrosty) - For adding some new callback functions to the wiki, that I didn't know existed
+- [melodiekit](https://github.com/melodiekit) - For adding some new callback functions to the wiki, that I didn't know existed
 - [galactic2005](https://github.com/galactic2005) - For on how to use `getPixelColor()` function and added custom achievement functions
 
 ### 14.1.0 Version
@@ -34,7 +34,7 @@
 - Fix spelling/grammar errors.
 
 #### Contributers
-- [LarryFrosty](https://github.com/LarryFrosty) - For fixing some grammar, adding more additional context on descriptions, adding descriptions to `createInstance()` and `addInstance()` functions, etc
+- [melodiekit](https://github.com/melodiekit) - For fixing some grammar, adding more additional context on descriptions, adding descriptions to `createInstance()` and `addInstance()` functions, etc
 
 ### 13.1.0 Version
 - Added the new `onEventPushed()` callback function, that's it.
