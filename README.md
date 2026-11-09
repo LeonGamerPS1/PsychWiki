@@ -14,7 +14,7 @@ Welcome to PsychWiki! This is where we dedicate to documenting functions/other t
 - Fix spelling/grammar errors
 
 #### Contributers
-- [LarryFrosty](https://github.com/LarryFrosty)
+- [melodiekit](https://github.com/melodiekit)
 
 ### Previous Update [14.2.0 Version]
 - Added custom achievement functions
@@ -23,7 +23,7 @@ Welcome to PsychWiki! This is where we dedicate to documenting functions/other t
 - Fix spelling/grammar errors
 
 #### Contributers
-- [LarryFrosty](https://github.com/LarryFrosty) - For adding some new callback functions to the wiki, that I didn't know existed
+- [melodiekit](https://github.com/melodiekit) - For adding some new callback functions to the wiki, that I didn't know existed
 - [galactic2005](https://github.com/galactic2005) - For on how to use `getPixelColor()` function and added custom achievement functions
 
 ***
@@ -37,7 +37,7 @@ Welcome to PsychWiki! This is where we dedicate to documenting functions/other t
 
 # Contributors:
 - [galactic2005](https://github.com/galactic2005) - For on how to use `getPixelColor()` function and added custom achievement functions
-- [LarryFrosty](https://github.com/LarryFrosty) - For fixing some grammar, adding more additional context on descriptions, adding descriptions to `createInstance()` and `addInstance()` functions, etc
+- [melodiekit](https://github.com/melodiekit) - For fixing some grammar, adding more additional context on descriptions, adding descriptions to `createInstance()` and `addInstance()` functions, etc
 - [kingyomoma](https://github.com/kingyomoma) - For fixing the grammar and additional context on `Basic of Coding` and `Custom Texts and Sprite`
 
 ***
